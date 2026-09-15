@@ -2,11 +2,11 @@
 
 - Comandi usati:
 
-1. git config --global user.name "Samuele Dallabrida"
-2. git config --global user.mail "samuele.dallabrida09@marconirovereto.it"
-3. git config --global init.defaultBranch main
-4. git config --global core.editor "code"
-5. git config --list --show-origin <!--comando per visualizzare tutte le azioni precedenti-->
+1. git config --global user.name "Samuele Dallabrida" <!--Comando per aggiungere un nome->
+2. git config --global user.mail "samuele.dallabrida09@marconirovereto.it" <!--Comando per aggiungere una e-mail->
+3. git config --global init.defaultBranch main <!--Comando per impostare il brach a main->
+4. git config --global core.editor "code" <!--Comando per specificare che utilizziamo Visual Studio Code come editor di codice->
+5. git config --list --show-origin <!--Comando per visualizzare tutte le azioni precedenti-->
 
 - Output:
   - file:/etc/gitconfig     user.email=samuele.dallabrida09@marconirovereto.it  
