@@ -5,5 +5,5 @@
   - Postazione: la nostra postazione scelta  
   - Pronta per: nome scelto  
 
-- Relativo Output:  
+- Relativo Output in seguito al comando ```pyhon orario.py```:  
   - Postazione 7 pronta per Samuele Dallabrida  
