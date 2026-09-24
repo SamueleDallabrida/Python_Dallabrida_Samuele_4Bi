@@ -91,8 +91,20 @@ Repository corso di informatica (Python)
     il file .gitignore  
     il file M0_ambiente/gitignore_verifica.md contenente l’output dei due comandi.  
   
-  - Esercizio 8
+  - Esercizio 8  
+    Eseguire l'autenticazione verso Github usando la chiave SSH  
+    Comando per generare la chiave : ```ssh-keygen -t ed25519 -C "samuele.dallabrida09@marconirovereto.it"```  // (creazione della chiave)(algoritmo per la creazione della chiave)(commento con relativa mail di github)
+    Comando per la restituzione a schermo della chiave: ```Get-Content ~/.ssh/id_ed25519.pub```  // (prende e restituisce un  testo)(percorso della cartella nascosta)(file che contiene la chiave pubblica)
+    Comando per autenticazione: ```ssh -T git@github.com``` //(attiva secure shell)(dice a github che stai eseguendo un test di autenticazione)(indirizzo connesione ssh)
   
+  - Esercizio 9:  
+    Commentare la cronologia dei propri commit, e spiegare ciò che contiene ciascun commit.  
+    In aggiunta fare un breve testo in cui appunto di definisce lo scopo di ciascun commit e si spiega a cosa servono  
+    le svarie etichette (HEAD, origin/main, main)  
+  
+  - Esercizio 10:
+
+
 
 
   
