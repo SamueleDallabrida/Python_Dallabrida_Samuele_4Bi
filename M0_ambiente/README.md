@@ -3,7 +3,7 @@
 Repository corso di informatica (Python)
 
 - Breve sintesi degli esercizi che saranno svolti nel M0:
-  - Esercizio 1:
+  - Esercizio 1:  
     Verificare che i 3 strumenti per creare l'ambiente siano funzionanti  
     Comandi da eseguire:  
     ```py --version```  
@@ -13,8 +13,8 @@ Repository corso di informatica (Python)
     Output dei seguenti comandi scritto in versioni.md  
 
 
-  - Esercizio 2:
-    Creare all'interno della cartella 'Documenti' una cartella chiamata 'esercizio-percorsi', con dentro 2 sottocartelle chiamate rispettivamente  
+  - Esercizio 2:  
+    Creare all'interno della cartella 'Documenti' una cartella chiamata 'esercizio-percorsi', con dentro 2 sottocartelle chiamate rispettivamente
     'dati' e 'risultati'  
     Spostarsi in 'dati' e raggiungere 'risultati' utilizzando un percorso relativo  
 
@@ -22,30 +22,30 @@ Repository corso di informatica (Python)
     Output e comandi sono stati trascritti nel file percorsi.md  
 
 
-  - Esercizio 3:
+  - Esercizio 3:  
     Creazione del il file M0_ambiente/orario.py inserendo il codice dell'esercizio con il nome e numero di postazione.  
     Eseguire lo script dal terminale (es. python orario.py).  
     Le informazioni relative all'output e ai comandi usati sono presenti nel file esecuzione.md.  
 
 
-  - Esercizio 4:
+  - Esercizio 4:  
     Configurare Git: Imposta i 4 parametri globali: il nome, l'email dell'istituto (usata su GitHub), il ramo predefinito (main) e VS Code come  editor.  
     Eseguire la verifica dal terminale usando il comando: ```git config --list --show-origin```  
     L'Output e la relativa spiegazione dei comandi usati è presente sul file chiamato configurazione_git.md.  
 
 
-  - Esercizio 5:
+  - Esercizio 5:  
     Creare il repository: Su GitHub creare un repository privato chiamato lab-info-4bi-cognome (vuoto, no README.md, no .gitingore) e aggiungere il docente tra i collaboratori.  
     Creare il README.md: Nel file inserire nome, classe, anno scolastico e lo scopo del repository.  
     Collegare ed inviare: Collegare la cartella locale al repository GitHub con git remote add origin ... e inviare le modifiche online usando git push -u origin main.  
     Verificare: Eseguendo git status il terminale deve confermare che l'albero di lavoro è pulito e allineato con origin/main.  
 
-  - Esercizio 6:
+  - Esercizio 6:  
     Creare tutta la struttura di cartelle che verranno utilizzate per le consegne durante tutto l'anno.  
     Per non lasciare le cartelle vuote (git non le registra) inserire un file ```.gitkeept``` vuoto, in ciascuna delle cartelle inserire un file  README.md con il titolo del modulo.  
 
-    Comando: ```git ls-files```
-    Output:
+    Comando: ```git ls-files```  
+    Output:  
     M0_ambiente/configurazione_git.md
     M0_ambiente/esecuzione.md
     M0_ambiente/orario.py
@@ -68,7 +68,7 @@ Repository corso di informatica (Python)
     README.md
   
   - Esercizio 7:
-    
+
 
   
     
