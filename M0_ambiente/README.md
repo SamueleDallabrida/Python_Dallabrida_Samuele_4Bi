@@ -68,6 +68,31 @@ Repository corso di informatica (Python)
     README.md
   
   - Esercizio 7:
+    creare un file .gitignore nella radice del repository personale per escludere:
+    - cache di Python (__pycache__/, file .pyc)
+    - ambienti virtuali (.venv/, venv/)
+    - file di stato dei notebook (.ipynb_checkpoints)
+    - file temporanei di Windows (Thumbs.db, ecc.)
+    - Per verificare che le regole funzionino:
+    - Creare un ambiente virtuale di prova nella cartella M0_ambiente
+      
+    ```py -3.12 -m venv M0_ambiente\.venv```  
+      
+    Controllare che Git lo ignori tramite:  
+      
+    ```git status```
+    ```git check-ignore -v M0_ambiente/.venv/pyvenv.cfg```   
+
+    Risultato atteso:  
+    git status non deve mostrare la cartella .venv tra i file non tracciati.  
+    git check-ignore -v deve indicare il file .gitignore, la riga e il pattern che ha causato l’esclusione.  
+
+    Output atteso:  
+    il file .gitignore  
+    il file M0_ambiente/gitignore_verifica.md contenente l’output dei due comandi.  
+  
+  - Esercizio 8
+  
 
 
   
