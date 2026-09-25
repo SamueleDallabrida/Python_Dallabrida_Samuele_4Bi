@@ -36,3 +36,8 @@ Python_Dallabrida_Samuele_4Bi/
     └── cronologia.md
 ```
 ### Se servono ulteriori specifiche riguardanti gli esercizi del modulo 0, guardare il file README.md del modulo
+
+venv
+./.venv\Scripts\activate
+requirements.txt
+pip install ipykernel

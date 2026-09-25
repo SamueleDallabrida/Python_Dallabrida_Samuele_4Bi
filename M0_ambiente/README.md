@@ -104,6 +104,9 @@ Repository corso di informatica (Python)
   
   - Esercizio 10:
 
+installare venv
+.\.venv\Scripts\activate
+pip install ipykernel
 
 
 
