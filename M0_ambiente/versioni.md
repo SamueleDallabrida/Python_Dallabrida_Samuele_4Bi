@@ -9,4 +9,4 @@
     x64  
 
 3. ```git --version``` <!-- Restituisce la versione corrente di git->
-  - git version 2.55.0  
+  - git version 2.55.0   
