@@ -23,6 +23,7 @@ I contenuti del repository sono organizzati in moduli, ed ognuno con un suo tito
 - `M6_oggetti`: ...
 - `M8_concorrenza_rete`: ...
 
+
 ## Struttura e Moduli
 
 ```text
