@@ -102,12 +102,27 @@ Repository corso di informatica (Python)
     In aggiunta fare un breve testo in cui appunto di definisce lo scopo di ciascun commit e si spiega a cosa servono  
     le svarie etichette (HEAD, origin/main, main)  
   
+
   - Esercizio 10:
+    Redazione del file README.md principale nella radice del repository.  
+    Il documento fornisce una panoramica completa del progetto includendo un'intestazione (nome, classe, materia e anno scolastico), lo scopo del repository, l'ubicazione delle consegne dei vari moduli e l'elenco dei software impiegati con le relative versioni.
 
-installare venv
-.\.venv\Scripts\activate
-pip install ipykernel
+  - Esercizio 11:
+    Simulazione della gestione dei file tracciati per errore.  
+    Dopo aver registrato una cartella temporanea con un commit, è stato notato che il file .gitignore non agisce sui file già tracciati.  
+    La situazione è stata risolta rimuovendo la cartella dall'indice di Git tramite git rm --cached senza eliminare i file locali, registrando la correzione con un nuovo commit e documentando  
+    il processo nel file M0_ambiente/recupero.md.
 
+  - Esercizio 12:
+    Gestione del disallineamento e dei conflitti di cronologia.  
+    È stata effettuata una modifica remota al file README.md via GitHub e, insieme, una modifica locale al file M0_ambiente/versioni.md.  
+    Dopo aver riscontrato il rifiuto del git push per mancato allineamento, si è proceduto all'integrazione delle modifiche tramite git pull e al invio successivo.  
+    L'errore riscontrato, i comandi usati e la spiegazione teorica sono stati raccolti nel file M0_ambiente/riallineamento.md  
+
+  - Esercizio 13:
+    Redazione della documentazione di sistema.  
+    È stata definita una guida sequenziale e riproducibile per la configurazione di una postazione Windows in M0_ambiente/procedura_postazione.md.  
+    Il documento comprende i comandi per l'identità Git, le chiavi SSH e la clonazione del repository tramite il percorso generico $HOME, con relativi controlli di verifica, output attesi e la risoluzione di quattro messaggi d'errore comuni.  
 
 
   
