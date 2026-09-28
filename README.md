@@ -31,10 +31,18 @@ Python_Dallabrida_Samuele_4Bi/
 ├── README.md
 ├── .gitignore
 └── M0_ambiente/
-    ├── verifica_ambiente.md
-    ├── gitignore_verifica.md
     ├── autenticazione.md
-    └── cronologia.md
+    ├── configurazione_git.md
+    ├── cronologia.md
+    ├── esecuzione.md
+    ├── gitignore_verifica.md
+    ├── orario.py
+    ├── percorsi.md
+    ├── procedura_postazione.md
+    ├── recupero.md
+    ├── reallineamento.md
+    ├── versioni.md
+    └── README.md
 ```
 ### Se servono ulteriori specifiche riguardanti gli esercizi del modulo 0, guardare il file README.md del modulo
 
