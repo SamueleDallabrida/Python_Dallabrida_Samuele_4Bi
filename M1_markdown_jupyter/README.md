@@ -13,5 +13,6 @@ Creazione della pagina delle risorse (`risorse.md`) contenente link esterni con 
 relativo a un altro file del repository (`README.md`) e un'immagine salvata in locale (`img/`) inserita tramite percorso relativo con testo alternativo.  
 
 ## Esercizio 4:
+Creazione del documento di analisi (`varianti.md`) contenente una tabella a 4 colonne (con allineamenti specifici) tra Markdown originale, CommonMark e GFM. Include dimostrazioni pratiche delle  estensioni GFM (caselle di spunta, testo barrato, autolink) e un paragrafo conclusivo motivato sulla scelta dello standard per il corso.  
 
-
+## Esercizio 5:
