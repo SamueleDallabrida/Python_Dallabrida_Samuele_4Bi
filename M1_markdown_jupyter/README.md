@@ -6,8 +6,12 @@ credenziali, strutturata con intestazioni multilivello, elenchi e formattazione 
 
 ## Esercizio 2:
 Redazione della guida operativa (`compilare.md`) per la compilazione ed esecuzione di un progetto Java da  
-terminale, con passaggi numerati, blocchi di codice `bash`, formattazione inline per opzioni/file e una citazione con la gestione degli errori relativi al JDK.
+terminale, con passaggi numerati, blocchi di codice `bash`, formattazione inline per opzioni/file e una citazione con la gestione degli errori relativi al JDK.  
 
 ## Esercizio 3:
+Creazione della pagina delle risorse (`risorse.md`) contenente link esterni con testo descrittivo, un collegamento  
+relativo a un altro file del repository (`README.md`) e un'immagine salvata in locale (`img/`) inserita tramite percorso relativo con testo alternativo.  
+
+## Esercizio 4:
 
 
