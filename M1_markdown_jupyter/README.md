@@ -19,3 +19,6 @@ Creazione del documento di analisi (`varianti.md`) contenente una tabella a 4 co
 Creazione del Jupyter Notebook (`M1_esercizio5.ipynb`) con kernel Python 3, composto da 6 celle alternate di testo e di codice.
 
 ## Esercizio 6:
+Redazione della documentazione completa (`readme-progetto.md`) per l'applicazione `MediaVoti`.
+
+## Esercizio 7:
